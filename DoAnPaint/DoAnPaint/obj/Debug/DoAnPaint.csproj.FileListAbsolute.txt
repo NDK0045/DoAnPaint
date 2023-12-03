@@ -1,0 +1,78 @@
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.Cache
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\obj\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\obj\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\bin\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\bin\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.Cache
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy\DoAnPaint\obj\Debug\DoAnPaint.csprojResolveAssemblyReference.cache
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\bin\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\bin\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.Cache
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\bin\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\bin\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\DoAnPaint - Copy - Copy - Copy\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.Cache
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.pdb
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+C:\Users\blvtu\Documents\Visual Studio 2013\Projects\Tutorial\NguyenHoangThinh_17110372\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.Cache
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.pdb
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.AssemblyReference.cache
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.SuggestedBindingRedirects.cache
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.cache
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.CoreCompileInputs.cache
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.exe
+D:\1. IT\HK2-22-23\Window Programmings\2.Code\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.pdb
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.pdb
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.AssemblyReference.cache
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.cache
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.CoreCompileInputs.cache
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.exe
+C:\Users\FPT-ACER\Downloads\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.pdb
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe.config
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.pdb
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.AssemblyReference.cache
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.SuggestedBindingRedirects.cache
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Form1.resources
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.Properties.Resources.resources
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.GenerateResource.cache
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.csproj.CoreCompileInputs.cache
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.exe
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.pdb
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.exe.manifest
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\bin\Debug\DoAnPaint.application
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.exe.manifest
+D:\SCHOLL_STUFFS\Window PROGRAMMING\DoAnPaint1\DoAnPaint\DoAnPaint\DoAnPaint\obj\Debug\DoAnPaint.application
